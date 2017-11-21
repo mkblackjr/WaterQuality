@@ -5,6 +5,7 @@ Created on Wed Nov 15 11:37:18 2017
 @author: MAYA
 """
 
+# Imports
 import serial
 import time
 import threading
