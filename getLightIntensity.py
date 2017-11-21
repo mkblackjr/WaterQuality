@@ -4,10 +4,8 @@ Created on Wed Nov 15 11:37:18 2017
 
 @author: MAYA
 """
-<<<<<<< HEAD
-=======
 
->>>>>>> master
+# This ought to show up in the next download
 # Imports
 import serial
 import time
